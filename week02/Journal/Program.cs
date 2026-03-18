@@ -1,3 +1,6 @@
+//I added a couple extra prompt generator questions.  I also made it so the randomizer does not pull the same question back to back.  I was testing it out and had that happen a few times until I made the change.
+
+
 using System;
 using System.Security.Cryptography;
 
