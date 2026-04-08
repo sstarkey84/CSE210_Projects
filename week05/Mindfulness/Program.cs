@@ -1,3 +1,6 @@
+// Made it so questions do not repeat back to back.  Inside ReflectingActivity.
+
+
 using System;
 
 class Program
