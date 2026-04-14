@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Eternal Quest");
+        GoalManager manager = new GoalManager();
+        manager.Start();
     }
 }
